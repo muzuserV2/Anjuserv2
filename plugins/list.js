@@ -20,7 +20,7 @@ Asena.addCommand({pattern: 'list', fromMe: false, desc: 'command help menu'}, (a
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.jpg, contextInfo: {mentionedJid: message.mention}, caption: `
    ` + config.LOGO_NAME + `
- 
+          ©ẉa.me/@ᴊͥᴏͭsᷤʜᴜᷟνͤᴀ
 🎗️ .xmedia
 💖 It is a plugin with more than 25 media tools._ 
 
