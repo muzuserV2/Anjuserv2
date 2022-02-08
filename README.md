@@ -33,13 +33,8 @@ CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Joshuvaser/Anjuserv2)
 
-
-
-**[![JOSHUVASER](https://i.imgur.com/x2XhjzE.jpeg)](http://wa.me/918129900380?text=Can%20you%20help%20bro)**
-
-
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ItsMeRafi/Miss-Helena-QR?v=1)
   
 
-
+**[![JOSHUVASER ](https://i.imgur.com/x2XhjzE.jpeg)](http://wa.me/918129900380?text=Can%20you%20help%20bro)**
