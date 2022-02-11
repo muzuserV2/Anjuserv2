@@ -10,14 +10,14 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
     var skl = await axios.get("https://i.ibb.co/HHfttTM/Joshuvaser.jpg", { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*⚜️➪𝑱𝑶𝑺𝑯𝑼𝑽𝑨 𝑺𝑬𝑹 𝑩𝑶𝑻☜︎︎︎⚜️*
-ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: ẉa.me/918129900380
+ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/918129900380
 
 
 Tʜɪs ʙᴏᴛ Oᴡɴᴇʀ Nᴀᴍᴇ : ❤️🥰 ✌︎𝙹ᴏꜱʜᴜᴠᴀ Sᴇʀ Bᴏᴛ ➪ 𝙹ᴏꜱʜᴜᴠᴀ
 
 Gɪᴛʜᴜʙ ʟɪɴᴋ:    https://github.com/Joshuvaser/Anjuserv2
 
-ᴊᴏꜱʜᴜᴠᴀꜱᴇʀ ʙᴏᴛ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk
+ᴊᴏꜱʜᴜᴠᴀꜱᴇʀ ʙᴏᴛ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/DG87G5A3cEz4hLTH5LKbPL
 
 Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀᴅᴇ : https://github.com/Joshuvaser/Anjuserv2/tree/master/uploads
 
