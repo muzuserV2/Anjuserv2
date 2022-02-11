@@ -17,7 +17,7 @@ Tʜɪs ʙᴏᴛ Oᴡɴᴇʀ Nᴀᴍᴇ : ❤️🥰 ✌︎𝙹ᴏꜱʜᴜᴠᴀ 
 
 Gɪᴛʜᴜʙ ʟɪɴᴋ:    https://github.com/Joshuvaser/Anjuserv2
 
-Aʙᴜ ʙᴏᴛ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk
+ᴊᴏꜱʜᴜᴠᴀꜱᴇʀ ʙᴏᴛ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk
 
 Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀᴅᴇ : https://github.com/Joshuvaser/Anjuserv2/tree/master/uploads
 
