@@ -20,7 +20,7 @@ var ddd = ggg.toString('utf-8')
 
 let whb = Config.WORKTYPE == 'public' ? false : true
 
-WhatsAlexa.addCommand({pattern: 'bot', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
+WhatsAlexa.addCommand({pattern: 'joshuva', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
 
 // send a buttons message!
 
@@ -40,7 +40,7 @@ WhatsAlexa.addCommand({pattern: 'bot', fromMe: whb, dontAddCommandList: true}, (
 
           contentText: "Hi Enthokke Und Bheei Chugam Thanne Allee? 😆",
 
-          footerText: 'owner Rafi,Ameen ©',
+          footerText: 'owner Joshuva ©',
 
           buttons: buttons,
 
