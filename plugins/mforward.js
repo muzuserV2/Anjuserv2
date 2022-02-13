@@ -20,7 +20,7 @@ else mode = 'ғᴏʀᴡᴀʀᴅᴇᴅ ʙʏ ' + Config.BC
              
             }
 
-Maalutty.addCommand({pattern: 'joshuvaforward ?(.*)', fromMe: true, desc: 'its foraward replied audio'}, (async (message, match) => {   
+Maalutty.addCommand({pattern: 'mforward ?(.*)', fromMe: true, desc: 'its foraward replied audio'}, (async (message, match) => {   
   
     if (message.reply_message === false);
     
